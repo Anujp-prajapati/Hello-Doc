@@ -31,14 +31,8 @@ Submit pull requests 🔧
 Feel free to reach out if you have any questions or ideas:
 
 
-💙 Our Team
 
- Ritesh Yadav
- Sanjay Sah
- Bijay Prasad Shah Rauniyar
- Anuj Kumar Prajapati
- Hariom Gupta
- Purushotam Prasad Kurmi
-=======
+
+
 # Hello-Doc
 >>>>>>> ada6cc644528814c3807878b2647e18e8d4092be
